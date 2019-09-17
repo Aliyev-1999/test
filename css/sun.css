@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+p {
+    font-size: 10;
+    background-color: beige;
+    border-radius: 10px;
+    border-color: violet;
+    padding: 40px;
+}
+h3 {
+    color: red;
+}
