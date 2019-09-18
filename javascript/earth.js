@@ -1,3 +1,3 @@
-function myFunction(p1,p2) {
-    return p1*p2;
-}
+var x=5;
+var y=4;
+document.write("x*y");
